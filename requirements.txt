@@ -1,40 +1,20 @@
-# ============================================================
-# GROUPE 3 — SN_ML_CLOUD_MBOUPDA_JOYCE
-# requirements.txt
-# ============================================================
-
-# ---- Core ----
-streamlit
-numpy
-pandas
-matplotlib
-plotly
-scipy
-
-# ---- Machine Learning ----
-scikit-learn
-tensorflow
-
-# ---- Finance / Stock Data ----
-yfinance
-
-# ---- NLP / RAG ----
-anthropic
-langchain
-langchain-community
-langchain-anthropic
-langsmith
-sentence-transformers
-faiss-cpu
-pypdf
-
-# ---- Audio ----
-gtts
-openai-whisper
-pydub
-
-# ---- HuggingFace / Time Series ----
-transformers
-torch
-chronos-forecasting
-prophet
+streamlit>=1.35.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+plotly>=5.22.0
+scikit-learn>=1.5.0
+tensorflow>=2.16.0
+pypdf>=4.2.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+langchain>=0.3.0
+anthropic>=0.55.0
+gTTS>=2.5.1
+openai-whisper>=20250625
+langsmith>=0.3.0
+yfinance>=0.2.54
+prophet>=1.1.6
+torch>=2.7.0
+transformers>=4.53.0
+accelerate>=1.8.0

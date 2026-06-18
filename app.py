@@ -1186,4 +1186,4 @@ with st.sidebar:
             st.warning(f"{lib} ✗")
 
     st.markdown("---")
-    st.caption("Développé pour ESTIAM — Cours Cloud ML 2025")
+    st.caption("Développé par joyce mboupda — 2026")
